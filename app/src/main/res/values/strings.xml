@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ForwardMessage</string>
+    <string name="setting_title">设置</string>
+    <string name="send_tips">账号：</string>
+    <string name="password">密码:</string>
+    <string name="save_settings">保存设置</string>
+    <string name="send_test">发送测试</string>
+    <string name="filter">过滤词</string>
+</resources>
